@@ -1,2 +1,2 @@
-"Hello git!"
-"this is my second version"
+i am learning git.
+git is amazing!
