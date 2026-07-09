@@ -1,4 +1,3 @@
-i am learning git.
+i am learning java,python.
 git is amazing!
 Learning branches
-hello i love u
